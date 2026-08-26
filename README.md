@@ -1,4 +1,9 @@
-## Hi there 👋
+## Russian Java/Luau/Lua developer
+
+## My Projects you can find in my repositories, but you cant find my main Projects:
+- Nekto client/hub
+
+## Fun fact: I using ChatGpt + Claude and my hands to make a code :)
 
 <!--
 **werumZov/werumZov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
