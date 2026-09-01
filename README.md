@@ -5,7 +5,7 @@ My Projects you can find in my repositories, but you cant find my main Projects:
 
 How to reach me:
 - Discord: werumov
-- Telegram: @crashsystemVM
+- Telegram: @werumov
 
 *Fun fact: I using ChatGpt + Claude and my hands to make a code :)*
 
